@@ -5,7 +5,7 @@
     alt="adam-pw"/> 
   </p>
 <br>
-<p><img align="right" src="https://giphy.com/gifs/BoschRexrothGlobal-boschrexroth-ctrlxworks-ctrlxatomation-0Zi6WfpgMU2DNx731N" alt="" /></p>
+<iframe src="https://giphy.com/embed/0Zi6WfpgMU2DNx731N" width="480" height="215" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BoschRexrothGlobal-boschrexroth-ctrlxworks-ctrlxatomation-0Zi6WfpgMU2DNx731N">via GIPHY</a></p>
 - 🌱 I’m currently learning JavaScript <br><br>
 - 📫 How to reach me melsayedshoaib@gmail.com <br><br>
 - ⚡ Fun fact :- Pseudocode always wins.
