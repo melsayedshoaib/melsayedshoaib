@@ -5,7 +5,7 @@
     alt="adam-pw"/> 
   </p>
 <br>
-<p><img align="right" src="[https://github.com/melsayedshoaib/melsayedshoaib/blob/main/animation_500_kxa883sd.gif](https://giphy.com/gifs/BoschRexrothGlobal-boschrexroth-ctrlxworks-ctrlxatomation-0Zi6WfpgMU2DNx731N)" alt="" /></p>
+<p><img align="right" src="https://giphy.com/gifs/BoschRexrothGlobal-boschrexroth-ctrlxworks-ctrlxatomation-0Zi6WfpgMU2DNx731N" alt="" /></p>
 - 🌱 I’m currently learning JavaScript <br><br>
 - 📫 How to reach me melsayedshoaib@gmail.com <br><br>
 - ⚡ Fun fact :- Pseudocode always wins.
