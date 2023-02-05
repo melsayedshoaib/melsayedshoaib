@@ -5,7 +5,7 @@
     alt="adam-pw"/> 
   </p>
 <br>
-<img src="https://media.giphy.com/media/0Zi6WfpgMU2DNx731N/giphy.gif">
+<img align="right" src="https://media.giphy.com/media/0Zi6WfpgMU2DNx731N/giphy.gif">
 - 🌱 I’m currently learning JavaScript <br><br>
 - 📫 How to reach me melsayedshoaib@gmail.com <br><br>
 - ⚡ Fun fact :- Pseudocode always wins.
