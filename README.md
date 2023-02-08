@@ -6,7 +6,7 @@
   </p>
 <br>
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="right">
-- 🌱 I’m currently learning JavaScript <br><br>
+- 🌱 I’m currently learning Reactjs <br><br>
 - 🔭 I’m currently working on CRUDs system using Vanilla JavaScript<br><br>
 - 📫 How to reach me melsayedshoaib@gmail.com <br><br>
 - ⚡ Fun fact :- Pseudocode always wins.
