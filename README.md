@@ -57,10 +57,6 @@
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
       width="40" height="40" /> </a> </p>
-    <a href="https://www.json.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/photoshop-line.svg" alt="json"
-      width="40" height="40" /> </a> </p>
 <br>
 <h3>Statistical Data :-</h3>
 <p><img align="center"
