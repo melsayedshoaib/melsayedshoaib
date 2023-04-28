@@ -7,7 +7,7 @@
 <br>
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="right">
 - 🌱 I’m currently learning Reactjs <br><br>
-- 🔭 I’m currently working on Link Shortener Website using React JS<br><br>
+- 🔭 I’m currently working on Budget Planner using React JS<br><br>
 - 📫 How to reach me melsayedshoaib@gmail.com <br><br>
 - ⚡ Fun fact :- Pseudocode always wins.
 <br>
