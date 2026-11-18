@@ -1,25 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shoaib</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melsayedshoaib&label=Profile%20views&color=0e75b6&style=flat" alt="melsayedshoaib" /> </p>
+- 🌱 I’m currently learning **Excel**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melsayedshoaib" alt="melsayedshoaib" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **My Portfolio Using Next JS**
-
-- 🌱 I’m currently learning **Next JS**
-
-- 👯 I’m looking to collaborate on **React JS projects**
+- 👯 I’m looking to collaborate on **Excel projects**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/melsayedshoaib/](https://www.linkedin.com/in/melsayedshoaib/)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React JS and Redux**
-
-- 📫 How to reach me **melsayedshoaib@gmail.com**
-
-- ⚡ Fun fact **Pseudocode always wins.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
